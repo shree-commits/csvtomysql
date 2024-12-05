@@ -1,0 +1,1 @@
+Error in row 2: 1406 (22001): Data too long for column 'name' at row 1. Data: ['205', 'Alice?Smith', '30']
